@@ -1,0 +1,12 @@
+main: nl.gamebois.wildrestore.App
+name: WildRestore
+version: 0.1
+
+commands:
+   save:
+      description: Your description
+      usage: /save
+
+   regen:
+      description: Your description
+      usage: /regen
